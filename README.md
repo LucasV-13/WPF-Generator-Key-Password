@@ -7,10 +7,13 @@
 - **Générateur de mots de passe personnalisable** : 
   - Spécifiez la longueur du mot de passe.
   - Incluez des lettres minuscules, majuscules, des chiffres et des symboles selon vos besoins.
+![image](https://github.com/user-attachments/assets/89e08c58-7488-4516-8da8-0bf38073adcd)
+
 
 - **Générateur de clés d'activation** :
   - Génère des clés d'activation au format XXXX-XXXX-XXXX-XXXX.
   - Spécifiez le nombre de segments et la longueur de chaque segment.
+![image](https://github.com/user-attachments/assets/8ca494af-eafa-40d0-9a80-895085dcb422)
 
 ## Installation
 
